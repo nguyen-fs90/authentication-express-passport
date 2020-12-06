@@ -2,7 +2,7 @@
 
 authentication with express + passport
 
-## package install
+## Package install
 
 ### BackEnd
 
@@ -17,4 +17,4 @@ npm i -D nodemon
 npm i react react-dom react-router-dom
 ```
 
-## package config
+## Package config
