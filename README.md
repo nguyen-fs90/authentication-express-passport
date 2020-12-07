@@ -1,6 +1,4 @@
-# authentication-express-passport
-
-authentication with express + passport
+# Authentication (express-passport)
 
 ## Package install
 
